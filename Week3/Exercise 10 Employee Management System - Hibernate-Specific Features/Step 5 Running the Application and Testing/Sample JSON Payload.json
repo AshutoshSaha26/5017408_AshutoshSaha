@@ -1,0 +1,12 @@
+[
+    {
+        "name": "John Doe",
+        "email": "johndoe@example.com",
+        "department": { "id": 1 }
+    },
+    {
+        "name": "Jane Doe",
+        "email": "janedoe@example.com",
+        "department": { "id": 2 }
+    }
+]
