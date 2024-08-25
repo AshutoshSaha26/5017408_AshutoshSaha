@@ -1,0 +1,14 @@
+{
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "password": "securepassword",
+    "_links": {
+        "self": {
+            "href": "http://localhost:8080/api/v1/customers/1"
+        },
+        "all-customers": {
+            "href": "http://localhost:8080/api/v1/customers"
+        }
+    }
+}
